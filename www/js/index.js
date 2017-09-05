@@ -26,7 +26,7 @@ var app = {
         document.getElementById("removeProjectFromLocalStorage").addEventListener("click",removeProjectFromLocalStorage);
         document.getElementById("getLocalStorageByKey").addEventListener("click", getLocalStorageByKey);
         
-        //zsdszd
+        //zsdszdasdasd
         // Get Local Storage
         var localStorage = window.localStorage;
         
